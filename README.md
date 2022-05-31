@@ -2,6 +2,6 @@
 
 Hello and welcome to our git tutorial.
 
-At first we will work with this simple textfile.
+At first we will work with simple textfiles.
 _________________________________________________
 
