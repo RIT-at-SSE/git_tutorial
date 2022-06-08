@@ -5,7 +5,7 @@
 2. Drain all the water and then soak urad dal in a bowl with 1 cup water for 3 to 4 hours. 
 3. Take rice rava or idli rava in a large bowl. We will first rinse the rava. 
 4. Add water till it floats a few centimetres on top of the rava layer. Gently mix the rava with water. Let this mixture rest for some seconds. Gently discard the water from the top. Do this method once or twice. 
-5. Then add 1.5 cups water for soaking rice rava for 3 to 4 hours.
+5. Then add 1.5 cups water for soaking rice Rava for 3 to 4 hours.
 6. Note: if you do not have rice rava, then soak ¾ cup rice in water for 3 to 4 hours. Drain all water. Spread rice on a plate or tray for about an hour. Then grind to a semi-fine texture of that of rice rava or idli rava.
 7. Later drain all the water from urad dal and add in a wet-grinder jar.
 8. Add ½ teaspoon chopped ginger and 1 green chilli (chopped). 
