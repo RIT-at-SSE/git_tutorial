@@ -1,4 +1,5 @@
 Name: Paul
 Fav. Food: Fondue
 Hobbies: Biking, hiking, programming, writing
-Fav. Country: France
+Favorite Country: India, France
+
