@@ -1,4 +1,5 @@
 
 name:pranavi
 fav hobbie: playing shuttle
-fav bird : parrot, pegion
+fav bird : parrot, pegion & peafowl 
+
