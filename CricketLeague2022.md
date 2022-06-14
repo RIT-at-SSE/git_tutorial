@@ -1,4 +1,4 @@
-#Indian Premier League 2022
+# Indian Premier League 2022
 
 |TEAM	| M	|  W	|  L	| T	| N/R	| PT	| NRR |	FOR |	AGAINST |
 |-----|---|-----|-----|---|-----|-----|------|-----|------------------------------------------|
