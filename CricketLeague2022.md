@@ -1,8 +1,8 @@
-#Indian Premier League 2023
+# Indian Premier League 2022
 
 | Place | TEAM	| M	|  W	|  L	| T	| N/R	| PT	| NRR |	FOR |	AGAINST |
 |-----|---|-----|-----|---|-----|-----|------|-----|-------------------|-----------------------|
-|10		|  Gujarat Titans	      |      14|	10	|4	 | 0|	0|	20|	0.316|	2339/278.1|	2216/273.5|
+|1		|  Gujarat Titans	      |      14|	10	|4	 | 0|	0|	20|	0.316|	2339/278.1|	2216/273.5|
 |2	|	  Rajasthan Royals	    |      14|	9	 | 5	 | 0|	0|	18|	0.298|	2464/279.2|	2351/275.5|
 |3	|	  Lucknow Super Giants	  |    14|	9	 | 5	 | 0|	0|	18|	0.251|	2355/279.1|	2289/279.4|
 |4	|	  Royal Challengers Bangalore	|14|	8	 | 6	 | 0|	0|	16|	-0.253|	2268/275.4|	2260/266.3|
@@ -13,5 +13,3 @@
 |9	|	  Chennai Super Kings	  |      14|	4	 | 10	 | 0|	0|	8|	-0.203|	2288/280.0|	2254/269.1|
 |10	|	Mumbai Indians	       |       14|  4  | 10  | 0| 0|	8|	-0.506|	2217/273.2|	2351/272.5|
 
-
-Finale Table for sure, trust me
